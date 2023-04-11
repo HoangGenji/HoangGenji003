@@ -7,10 +7,11 @@
 
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=a&show_icons=true&locale=en&layout=compact" alt="" /></p>
 
-<p><img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="" /></p>
+<p><img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="" /></p>
 
+<br>
 
-
+<h1 align="center"> <=-=-=-=-=-=-=-=-=-[_|THE END|_]-=-=-=-=-=-=-=-=-=-=> </h1>
 
 <!--
 **HoangGenji003/HoangGenji003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
